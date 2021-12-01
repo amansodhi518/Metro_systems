@@ -66,6 +66,7 @@ public class addbalance extends javax.swing.JInternalFrame  implements convar{
         setClosable(true);
         setIconifiable(true);
         setTitle("Add balance to Card");
+        System.out.println("Edited");
 
         jButton1.setText("Search");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
